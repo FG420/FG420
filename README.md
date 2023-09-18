@@ -8,11 +8,11 @@
 
 ➡️ I currently studing Web Development Full Stack at [ITS Digital Academy Mario Volpato](https://itsdigitalacademy.com/).
 
-➡️ My aim is to create something that can improve mine and others lifes.
-
-➡️ My dream is to not be stressed.
+➡️ I aim to create something that can improve mine and others lives.
 
 ➡️ I love my dogs and nature.
+
+➡️ I'm into RPG and strategy games.
 
 ---
 
