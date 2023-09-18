@@ -101,3 +101,17 @@
     </tr>
   </table>
 </div>
+
+### $$\sf CMS $$
+
+<div align="center">
+  <table>
+    <tr>
+      <th><a href="https://wordpress.org/documentation/"><img src="https://loghi-famosi.com/wp-content/uploads/2021/01/WordPress-Logo.png" height="70"></th>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://wordpress.org/documentation/">Documentation</a></td>
+    </tr>
+  </table>
+</div>
+
