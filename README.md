@@ -70,7 +70,7 @@
   </table>
 </div>
 
-### $$\sf Web \space development$$
+### $$\sf Web \space Development$$
 
 <div align="center">
   <table>
