@@ -44,11 +44,13 @@
       <th><a href="https://learn.microsoft.com/en-us/dotnet/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png" height="70"></th>
       <th><a href="https://angular.io/docs"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" height="90"></th>
       <th><a href="https://learn.microsoft.com/en-us/xamarin/"><img src="https://cdn.freebiesupply.com/logos/thumbs/2x/xamarin-logo.png" height="70"></th>
+      <th><a href="https://nextjs.org/"><img src="https://static-00.iconduck.com/assets.00/nextjs-icon-512x512-11yvtwzn.png" height="70"></th>
     </tr>
     <tr>
       <td><a href="https://learn.microsoft.com/en-us/dotnet/">Documentation</a></td>
       <td><a href="https://angular.io/docs">Documentation</a></td>
       <td><a href="https://learn.microsoft.com/en-us/xamarin/">Documentation</a></td>
+      <td><a href="https://nextjs.org/">Documentation</a></td>
     </tr>
   </table>
 </div>
