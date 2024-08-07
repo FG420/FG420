@@ -42,14 +42,10 @@
   <table>
     <tr>
       <th><a href="https://learn.microsoft.com/en-us/dotnet/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png" height="70"></th>
-      <th><a href="https://angular.io/docs"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" height="90"></th>
-      <th><a href="https://learn.microsoft.com/en-us/xamarin/"><img src="https://cdn.freebiesupply.com/logos/thumbs/2x/xamarin-logo.png" height="70"></th>
       <th><a href="https://nextjs.org/"><img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" height="70"></th>
     </tr>
     <tr>
       <td><a href="https://learn.microsoft.com/en-us/dotnet/">Documentation</a></td>
-      <td><a href="https://angular.io/docs">Documentation</a></td>
-      <td><a href="https://learn.microsoft.com/en-us/xamarin/">Documentation</a></td>
       <td><a href="https://nextjs.org/">Documentation</a></td>
     </tr>
   </table>
@@ -91,29 +87,5 @@
   </table>
 </div>
 
-### $$\sf Scripting \space Languages$$
 
-<div align="center">
-  <table>
-    <tr>
-      <th><a href="https://learn.microsoft.com/en-us/powershell/"><img src="https://itblog.ldlnet.net/wp-content/uploads/2019/01/powershell-2.png" height="70"></th>
-    </tr>
-    <tr>
-      <td align="center"><a href="https://learn.microsoft.com/en-us/powershell/">Documentation</a></td>
-    </tr>
-  </table>
-</div>
-
-### $$\sf CMS $$
-
-<div align="center">
-  <table>
-    <tr>
-      <th><a href="https://wordpress.org/documentation/"><img src="https://loghi-famosi.com/wp-content/uploads/2021/01/WordPress-Logo.png" height="70"></th>
-    </tr>
-    <tr>
-      <td align="center"><a href="https://wordpress.org/documentation/">Documentation</a></td>
-    </tr>
-  </table>
-</div>
 
