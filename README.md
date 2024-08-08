@@ -6,7 +6,7 @@
 
 ## $${{\color{orange} {About} \space {Me}}}$$ 
 
-➡️ I currently studing Web Development Full Stack at [ITS Digital Academy Mario Volpato](https://itsdigitalacademy.com/).
+➡️ Graduated from [ITS Digital Academy Mario Volpato](https://itsdigitalacademy.com/) in Full Stack Web Development.
 
 ➡️ I aim to create something that can improve mine and others lives.
 
