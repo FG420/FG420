@@ -77,8 +77,8 @@
 </div>
 
 
-### $$\sf Prefered Development Stack$$
- $$\sf MERN Stack:
+### $$\sf Prefered \space Development \space Stack$$
+ MERN Stack:
   Right now my go to stack revolves around MongoDB as a database, Express.js or Nest.js for the backend and React.js for the frontend;
   usually I'm using Next.js as a Full stack frameworks for simplify the workflow.
 
