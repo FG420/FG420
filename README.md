@@ -16,6 +16,12 @@
 
 ---
 
+### $$\sf Prefered \space Development \space Stack$$
+ #### $${{\color{#1991D7}{MERN \space Stack}}}$$:
+  Right now my go to stack revolves around MongoDB as a database, Express.js or Nest.js for the backend and React.js for the frontend;
+  usually I'm using Next.js as a Full stack frameworks for simplify the workflow.
+
+---
 
 ## $${{\color{#1991D7}{Tech \space Tools}}}$$
 
@@ -27,7 +33,7 @@
       <th><a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://cdnlogo.com/logos/c/27/c.svg" height="80"></th>
       <th><a href="https://devdocs.io/javascript/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png?20120221235433" height="80"></th>
       <th><a href="https://devdocs.io/typescript/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" height="80"></th>
-        <th><a href="https://devdocs.io/typescript/"><img src="https://www.pinclipart.com/picdir/middle/539-5397283_java-logo-icon-png-clipart.png" height="80"></th>
+        <th><a href="https://devdocs.io/typescript/"><img src="https://www.svgrepo.com/show/184143/java.svg" height="80"></th>
     </tr>
     <tr>
       <td><a href="https://learn.microsoft.com/en-us/dotnet/csharp/">Documentation</a></td>
@@ -75,12 +81,6 @@
     </tr>
   </table>
 </div>
-
-
-### $$\sf Prefered \space Development \space Stack$$
- ####{{\color{#228B22}{MERN \space Stack}}}:
-  Right now my go to stack revolves around MongoDB as a database, Express.js or Nest.js for the backend and React.js for the frontend;
-  usually I'm using Next.js as a Full stack frameworks for simplify the workflow.
 
 
 ### $$\sf Additional \space Note$$
