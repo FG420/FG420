@@ -90,7 +90,7 @@
         <img src="https://www.pngkey.com/png/full/98-985032_flask-logo-flask-python-icon.png" height="70">
       </th>
       <th><a href="https://spring.io/"/>
-        <img src="https://image.pngaaa.com/500/2459500-small.png" height="70">
+        <img src="https://imgur.com/FDeevm9" height="70">
       </th>
     </tr>
     <tr>
