@@ -112,7 +112,7 @@
       <th><a href="https://www.postgresql.org/docs/"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/postgresql_src_logo_icon_170834.png" height="70"></th>
       <th><a href="https://www.mongodb.com/docs/"><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_logo_icon_146424.png" height="70"></th>
       <th><a href="https://www.sqlite.org/">
-        <img src="https://www.liblogo.com/img-logo/sq3669s0f9-sqlite-logo-sqlite-logo.png" height="70"></th>
+        <img src="https://en.vetores.org/wp-content/uploads/sqlite.png" height="70"></th>
       <th><a href="https://learn.microsoft.com/en-us/sql/sql-server/?view=sql-server-ver16"><img src="https://compassconsult.com/wp-content/uploads/2016/01/SQL-Server-logo.png" height="65"></th>
     </tr>
     <tr>
