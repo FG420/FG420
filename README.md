@@ -27,17 +27,18 @@
       <th><a href="https://devdocs.io/typescript/"/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" height="80"></th>
       <th><a href="https://devdocs.io/javascript/"/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png?20120221235433" height="80"></th>
       <th><a href="https://go.dev/"/>
-        <img src="https://w7.pngwing.com/pngs/566/160/png-transparent-golang-hd-logo.png" height="70">
+        <img src="https://www.vhv.rs/dpng/d/279-2797676_golang-mascot-hd-png-download.png" height="70">
       </th>
       <th><a href="https://www.python.org/"/>
         <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fbrandslogos.com%2Fwp-content%2Fuploads%2Fimages%2Flarge%2Fpython-logo.png&f=1&nofb=1&ipt=39cc16672c40162840da8dcd1c88800a75202c6cc67ab02865b303be27d85d58&ipo=images" 
           height="80"></th>
-      <th><a href="https://www.java.com/"/><img src="https://www.svgrepo.com/show/184143/java.svg" height="80"></th>
+      <th><a href="https://dev.java/learn/"/><img src="https://www.svgrepo.com/show/184143/java.svg" height="80"></th>
     </tr>
     <tr>
-      <td><a href="https://learn.microsoft.com/en-us/dotnet/csharp/"/>Docs</a></td>
-      <td><a href="https://devdocs.io/javascript/"/>Docs</a></td>
       <td><a href="https://devdocs.io/typescript/"/>Docs</a></td>
+      <td><a href="https://devdocs.io/javascript/"/>Docs</a></td>
+      <td><a href="https://go.dev/"/>Docs</a></td>
+      <td><a href="https://www.python.org/"/>Docs</a></td>
       <td><a href="https://dev.java/learn/"/>Docs</a></td>
     </tr>
   </table>
@@ -74,22 +75,22 @@
   <table>
     <tr>
       <th><a href="https://nodejs.org/en"/>
-        <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimg1.pnghut.com%2F15%2F21%2F24%2FBM3MDgP44m%2Ftext-nodejs-javascript-sign-signage.jpg&f=1&nofb=1&ipt=b0b0805a1587ca36dd03df24b6e05736e591de1274ff6c6e9728fad851200345&ipo=images" height="70">
+        <img src="https://www.liblogo.com/img-logo/no6273w13b-node-js-logo-what-does-it-take-to-support-node-js-esm-the-guild-blog.png" height="70">
       </th>
       <th><a href="https://expressjs.com/"/>
         <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fajeetchaulagain.com%2Fstatic%2F7cb4af597964b0911fe71cb2f8148d64%2F87351%2Fexpress-js.png&f=1&nofb=1&ipt=51a88425a825878bb88a21707236028fcd3843e15d224085fe89c46772e16a8e&ipo=images" height="70">
       </th>
       <th><a href="https://docs.nestjs.com"/>
-        <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftl.vhv.rs%2Fdpng%2Fs%2F498-4989583_nestjs-logo-hd-png-download.png&f=1&nofb=1&ipt=999267bd49829f7a09d85043723699acaba29880e913128325a54f5e2f170d34&ipo=images" height="70">
+        <img src="https://tl.vhv.rs/dpng/s/498-4989583_nestjs-logo-hd-png-download.png" height="70">
       </th>
       <th><a href="https://go.dev/"/>
-        <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fw7.pngwing.com%2Fpngs%2F566%2F160%2Fpng-transparent-golang-hd-logo.png&f=1&nofb=1&ipt=7af26bcdd9a40130a8497bc85cfa983b8ca090ba16d536a9ecb1e0279bbe5e62&ipo=images" height="70">
+        <img src="https://www.vhv.rs/dpng/d/279-2797676_golang-mascot-hd-png-download.png" height="70">
       </th>
       <th><a href="https://flask.palletsprojects.com/en/stable/"/>
-        <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimage.pngaaa.com%2F27%2F3594027-middle.png&f=1&nofb=1&ipt=a521aafd5a6bbb4cef19c749d21956a2989c2e0cb0e8ddb18d9e333bf13f26c8&ipo=images" height="70">
+        <img src="https://www.pngkey.com/png/full/98-985032_flask-logo-flask-python-icon.png" height="70">
       </th>
       <th><a href="https://spring.io/"/>
-        <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimage.pngaaa.com%2F500%2F2459500-middle.png&f=1&nofb=1&ipt=40466d886419195eee413bdc0cc7366fda2becd63425f64de46414ea316a06b3&ipo=images" height="70">
+        <img src="https://e7.pngegg.com/pngimages/931/804/png-clipart-spring-framework-software-framework-java-application-framework-web-framework-java-leaf-text.png" height="70">
       </th>
     </tr>
     <tr>
@@ -111,7 +112,7 @@
       <th><a href="https://www.postgresql.org/docs/"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/postgresql_src_logo_icon_170834.png" height="70"></th>
       <th><a href="https://www.mongodb.com/docs/"><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_logo_icon_146424.png" height="70"></th>
       <th><a href="https://www.sqlite.org/">
-        <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogospng.org%2Fwp-content%2Fuploads%2Fsqlite-768x432.png&f=1&nofb=1&ipt=9a708471ac88cf85a1c936b2b66d52e8acd384de8c02974216ba962d406c1862&ipo=images" height="70"></th>
+        <img src="https://www.liblogo.com/img-logo/sq3669s0f9-sqlite-logo-sqlite-logo.png" height="70"></th>
       <th><a href="https://learn.microsoft.com/en-us/sql/sql-server/?view=sql-server-ver16"><img src="https://compassconsult.com/wp-content/uploads/2016/01/SQL-Server-logo.png" height="65"></th>
     </tr>
     <tr>
