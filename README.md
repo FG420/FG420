@@ -27,7 +27,7 @@
       <th><a href="https://devdocs.io/typescript/"/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" height="80"></th>
       <th><a href="https://devdocs.io/javascript/"/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png?20120221235433" height="80"></th>
       <th><a href="https://go.dev/"/>
-        <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fw7.pngwing.com%2Fpngs%2F566%2F160%2Fpng-transparent-golang-hd-logo.png&f=1&nofb=1&ipt=7af26bcdd9a40130a8497bc85cfa983b8ca090ba16d536a9ecb1e0279bbe5e62&ipo=images" height="70">
+        <img src="https://www.nicepng.com/png/detail/264-2641184_111-kb-png-golang-logo.png" height="70">
       </th>
       <th><a href="https://www.python.org/"/>
         <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fbrandslogos.com%2Fwp-content%2Fuploads%2Fimages%2Flarge%2Fpython-logo.png&f=1&nofb=1&ipt=39cc16672c40162840da8dcd1c88800a75202c6cc67ab02865b303be27d85d58&ipo=images" 
