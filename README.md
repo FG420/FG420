@@ -10,10 +10,6 @@
 
 ➡️ I aim to create something that can improve mine and others lives.
 
-➡️ I love my dogs and nature.
-
-➡️ I'm into RPG and strategy games.
-
 ---
 
 
@@ -87,7 +83,7 @@
         <img src="https://golang.ch/wp-content/uploads/2022/07/7j744r8g12roh11zgqpc-768x927.png" height="70">
       </th>
       <th><a href="https://flask.palletsprojects.com/en/stable/"/>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" height="70">
+        <img src="https://www.clipartkey.com/mpngs/m/145-1450071_flask-python-logo-transparent.png" height="70">
       </th>
       <th><a href="https://spring.io/"/>
         <img src="https://i.imgur.com/FDeevm9.png" height="70">
