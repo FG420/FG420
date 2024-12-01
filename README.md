@@ -27,7 +27,7 @@
       <th><a href="https://devdocs.io/typescript/"/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" height="80"></th>
       <th><a href="https://devdocs.io/javascript/"/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png?20120221235433" height="80"></th>
       <th><a href="https://go.dev/"/>
-        <img src="https://static-00.iconduck.com/assets.00/golang-icon-1594x2048-0xixr8zr.png" height="70">
+        <img src="https://logodix.com/logo/2142700.png" height="70">
       </th>
       <th><a href="https://www.python.org/"/>
         <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fbrandslogos.com%2Fwp-content%2Fuploads%2Fimages%2Flarge%2Fpython-logo.png&f=1&nofb=1&ipt=39cc16672c40162840da8dcd1c88800a75202c6cc67ab02865b303be27d85d58&ipo=images" 
@@ -112,7 +112,7 @@
       <th><a href="https://www.postgresql.org/docs/"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/postgresql_src_logo_icon_170834.png" height="70"></th>
       <th><a href="https://www.mongodb.com/docs/"><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_logo_icon_146424.png" height="70"></th>
       <th><a href="https://www.sqlite.org/">
-        <img src="https://logospng.org/wp-content/uploads/sqlite-768x432.png" height="70"></th>
+        <img src="https://cdn.pixabay.com/photo/2013/09/18/12/13/database-183453_1280.png" height="70"></th>
       <th><a href="https://learn.microsoft.com/en-us/sql/sql-server/?view=sql-server-ver16"><img src="https://compassconsult.com/wp-content/uploads/2016/01/SQL-Server-logo.png" height="65"></th>
     </tr>
     <tr>
