@@ -75,7 +75,7 @@
   <table>
     <tr>
       <th><a href="https://nodejs.org/en"/>
-        <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.liblogo.com%2Fimg-logo%2Fno6273w13b-node-js-logo-what-does-it-take-to-support-node-js-esm-the-guild-       blog.png&f=1&nofb=1&ipt=699145a0782ab52ba4fc2503a892433365cd62b0c65594e97ee6053e1a9c98e1&ipo=images" height="70">
+        <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fw7.pngwing.com%2Fpngs%2F232%2F470%2Fpng-transparent-circle-js-node-node-js-programming-round-icon-popular-services-brands-vol-icon.png&f=1&nofb=1&ipt=112fc58a3da8a751cea75975359f63bde6a3522e42f2d3ee4d9be6146b8bf20a&ipo=images" height="70">
       </th>
       <th><a href="https://expressjs.com/"/>
         <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fajeetchaulagain.com%2Fstatic%2F7cb4af597964b0911fe71cb2f8148d64%2F87351%2Fexpress-js.png&f=1&nofb=1&ipt=51a88425a825878bb88a21707236028fcd3843e15d224085fe89c46772e16a8e&ipo=images" height="70">
