@@ -6,9 +6,7 @@
 
 ## $${{\color{orange} {About} \space {Me}}}$$ 
 
-➡️ Graduated from [ITS Digital Academy Mario Volpato](https://itsdigitalacademy.com/) in Full Stack Web Development (EQF V LEVEL DIPLOMA).
-
-➡️ I aim to create something that can improve mine and others lives.
+➡️ 
 
 ---
 
